@@ -16,7 +16,7 @@ let shark_x = CANVAS_WIDTH - (shark.width/2);
 let shark_y = (CANVAS_HEIGT - shark.height) / 2;
 
 const player = new Image();
-player.src = 'shark cage size1.png';
+player.src = 'shark cage.png';
 player.width = (player.width/4);
 player.height = (player.height/4);
 
