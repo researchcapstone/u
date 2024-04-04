@@ -21,7 +21,7 @@ player.width = (player.width/4);
 player.height = (player.height/4);
 
 const player_d = new Image();
-player_d.src = 'cage-broken1.png';
+player_d.src = 'cage-broken2.png';
 player_d.width = (player_d.width/2);
 player_d.height = (player_d.height/2);
 
